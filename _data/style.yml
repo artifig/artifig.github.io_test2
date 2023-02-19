@@ -4,5 +4,6 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+#header-image: "../img/header-bg.jpg"
+header-image: "../img/digital_art_of_a_party_for_technology_and_humanity_full.webp"
 contact-image: "../img/map-image.png"
