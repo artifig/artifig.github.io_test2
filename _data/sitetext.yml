@@ -98,40 +98,30 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Our amazing team"
+    text: "who are we"
+    subtext: "Contact us today to learn more about how we can leverage our expertise and network to help you achieve your goals."
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Otto Mättas"
+        role: "Architect | Evangelist | Mentor"
+        image: assets/img/team/otto.webp
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+        #  - url: https://twitter.com
+        #    icon: fab fa-twitter
+        #  - url: https://facebook.com
+        #    icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/ottomattas/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Uku AI"
+        role: "Analyst | Coordinator | Designer"
+        image: assets/img/team/uku.webp
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+        #  - url: https://twitter.com
+        #    icon: fab fa-twitter
+        #  - url: https://facebook.com
+        #    icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/company/uku-ai/
             icon: fab fa-linkedin-in
 
   contact:
