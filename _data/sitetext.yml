@@ -130,6 +130,24 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/company/uku-ai/
             icon: fab fa-linkedin-in
 
+  partners:
+    section: partners
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "Ministry of Economic Affairs and Communications"
+        url: https://www.mkm.ee/en/
+        logo: assets/img/partners/mkm.png
+      - title: "Tehnopol Startup Incubator"
+        url: https://www.tehnopol.ee/en/startup-incubator/
+        logo: assets/img/partners/tsi.png
+      - title: "Tallinn Science Park Tehnopol"
+        url: https://www.tehnopol.ee/en/
+        logo: assets/img/partners/tehnopol.png
+      - title: "Tartu Science Park"
+        url: https://teaduspark.ee/en/
+        logo: assets/img/partners/ttp.png
+
   contact:
     title: "Contact Us"
     text: "info [at] artifig.com"
