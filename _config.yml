@@ -19,11 +19,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Artifig
 email      : info@artifig.com #this is also the email contact forms will go to
-description: "where humanity meets technology"
+description: "Artificial Intelligence consulting company where humanity meets technology."
 author     : Otto Mättas
 logo:     #optional, defaults to site title
   path: assets\img\Artifig_logo_orange.webp
-  # height: 60 #height in px, defaults to 52px
+  #height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
