@@ -68,12 +68,12 @@ en: &DEFAULT_EN
       - title: "Sharing is Caring"
         year: "2021"
         desc: "Becoming a mentor, Otto was able to give back to the start-up community in a meaningful way. He was passionate about helping others achieve their goals and make a positive impact on the world. He was also able to continue learning and growing as an entrepreneur, as his mentees brought new perspectives and ideas to the table."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/4.jpg
         alt: image alt text
       - title: "We Are Not Stopping"
         year: "2023"
-        desc: "Otto's access to a large network of professionals from all areas of technology and business enables him to stay up-to-date with the latest industry trends and cutting-edge technologies. This allows him to provide his clients with the most advanced and effective solutions for their needs with the same level of personalized attention and expertise that helped him succeed in the beginning."
-        image: assets/img/timeline/4.jpg
+        desc: "Otto's access to a large network of professionals from all areas of technology and business enables him to stay up-to-date with the latest industry trends and cutting-edge technologies. This allows Artifig to provide its clients with the most advanced and effective solutions for their needs with the same level of personalized attention and expertise that helped Otto succeed in the beginning."
+        image: assets/img/timeline/5.jpg
         alt:
         # you can enforce the alignment
         # align: right
