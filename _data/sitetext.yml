@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "what do we do"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Analyse"
+        desc: "Artificial Intelligence can help your business stay ahead of the competition. We investigate your current challenges and propose suitable ways to solve them."
+        icon: fas fa-search-plus  #find more at https://fontawesome.com/icons
+      - title: "Design"
+        desc: "Navigating SAAS, cloud computing, and on-premises solutions can be taunting. We design robust technical Artificial Intelligence architecture that matches your needs."
+        icon: fa fa-paint-brush
+      - title: "Mentor"
+        desc: "Taking time to pause and reflect brings benefits to you and your business. We listen and think along, giving honest feedback to enterprises and startups alike."
+        icon: fas fa-user
 
   portfolio:
     title: "Portfolio"
