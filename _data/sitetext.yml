@@ -37,6 +37,12 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
+  about:
+    title: "About Us"
+    text: "in brief"
+    body: "Whether you're facing a specific technical challenge or seeking a long-term partner to support your ongoing business needs, our small but capable team is here to help. In addition to our own skills and experience, we also have a vast network of professionals and mentors that we can tap into to help solve even the most complex challenges."
+    section: about
+
   timeline:
     title: "Timeline"
     text: "our story"
