@@ -39,33 +39,38 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "our story"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2015-2017"
+        desc: "One day, Otto received a call from the Estonian parliament. They were struggling with some technical issues and needed his help. Otto jumped at the opportunity and quickly went to work. He was able to solve their problems efficiently and effectively, impressing the parliament members with his skills and knowledge."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Artifig is Born"
+        year: "2017"
+        desc: "Word quickly spread about Otto's success, and he soon became the go-to person for many international companies and their technical needs. Despite the high-profile nature of the job, Otto remained humble and focused on delivering the best possible service."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "Expanding the Horizons"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Otto had always been driven by a desire to make a positive impact on the world. He believed that technology had the power to change people's lives for the better, and he wanted to be a part of that transformation. So, he set out to build world-changing start-ups as a learning experience."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Sharing is Caring"
+        year: "2021"
+        desc: "Becoming a mentor, Otto was able to give back to the start-up community in a meaningful way. He was passionate about helping others achieve their goals and make a positive impact on the world. He was also able to continue learning and growing as an entrepreneur, as his mentees brought new perspectives and ideas to the table."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "We Are Not Stopping"
+        year: "2023"
+        desc: "Otto's access to a large network of professionals from all areas of technology and business enables him to stay up-to-date with the latest industry trends and cutting-edge technologies. This allows him to provide his clients with the most advanced and effective solutions for their needs with the same level of personalized attention and expertise that helped him succeed in the beginning."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
+        # align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
