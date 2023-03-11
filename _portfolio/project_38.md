@@ -1,7 +1,7 @@
 ---
 title: Luxlight
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Luxlight.png
+image: assets/img/portfolio/Luxlight.webp
 alt: Luxlight company logo
 
 caption:

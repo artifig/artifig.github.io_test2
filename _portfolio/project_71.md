@@ -1,7 +1,7 @@
 ---
 title: Vopak
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Vopak.png
+image: assets/img/portfolio/Vopak.webp
 alt: Vopak company logo
 
 caption:

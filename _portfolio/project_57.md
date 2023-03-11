@@ -1,7 +1,7 @@
 ---
 title: Solarstone
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Solarstone.png
+image: assets/img/portfolio/Solarstone.webp
 alt: Solarstone company logo
 
 caption:

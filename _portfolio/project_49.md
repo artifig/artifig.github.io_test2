@@ -1,7 +1,7 @@
 ---
 title: Rabobank
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Rabobank.png
+image: assets/img/portfolio/Rabobank.webp
 alt: Rabobank company logo
 
 caption:

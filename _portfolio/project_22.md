@@ -1,7 +1,7 @@
 ---
 title: Gateway Management
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Gateway_Management.png
+image: assets/img/portfolio/Gateway_Management.webp
 alt: Gateway Management company logo
 
 caption:

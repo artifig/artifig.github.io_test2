@@ -1,7 +1,7 @@
 ---
 title: University of Tartu
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/University_of_Tartu.png
+image: assets/img/portfolio/University_of_Tartu.webp
 alt: University of Tartu company logo
 
 caption:

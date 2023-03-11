@@ -1,7 +1,7 @@
 ---
 title: AI & Robotics Estonia
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/AI_&_Robotics_Estonia.png
+image: assets/img/portfolio/AI_&_Robotics_Estonia.webp
 alt: AI & Robotics Estonia (AIRE) company logo
 
 caption:

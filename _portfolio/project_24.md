@@ -1,7 +1,7 @@
 ---
 title: Generali
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Generali.png
+image: assets/img/portfolio/Generali.webp
 alt: Generali company logo
 
 caption:

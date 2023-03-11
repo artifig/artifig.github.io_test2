@@ -1,7 +1,7 @@
 ---
 title: Holland Startup
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Holland_Startup.png
+image: assets/img/portfolio/Holland_Startup.webp
 alt: Holland Startup company logo
 
 caption:

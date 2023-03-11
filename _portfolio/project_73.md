@@ -1,7 +1,7 @@
 ---
 title: We Provide
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/We_Provide.png
+image: assets/img/portfolio/We_Provide.webp
 alt: We Provide company logo
 
 caption:

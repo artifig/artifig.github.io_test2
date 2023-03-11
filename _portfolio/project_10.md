@@ -1,7 +1,7 @@
 ---
 title: Bloomville
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Bloomville.png
+image: assets/img/portfolio/Bloomville.webp
 alt: Bloomville company logo
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: Estonian University of Life Sciences
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Estonian_University_of_Life_Sciences.png
+image: assets/img/portfolio/Estonian_University_of_Life_Sciences.webp
 alt: Estonian University of Life Sciences logo
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: DefEST
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/DefEST.png
+image: assets/img/portfolio/DefEST.webp
 alt: DefEST company logo
 
 caption:

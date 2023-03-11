@@ -1,7 +1,7 @@
 ---
 title: Indivirtual
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Indivirtual.png
+image: assets/img/portfolio/Indivirtual.webp
 alt: Indivirtual company logo
 
 caption:

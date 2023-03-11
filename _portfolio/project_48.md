@@ -1,7 +1,7 @@
 ---
 title: Pentamet
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Pentamet.png
+image: assets/img/portfolio/Pentamet.webp
 alt: Pentamet company logo
 
 caption:

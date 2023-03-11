@@ -1,7 +1,7 @@
 ---
 title: Amazon AWS
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Amazon_AWS.png
+image: assets/img/portfolio/Amazon_AWS.webp
 alt: Amazon AWS company logo
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: Vogel's
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Vogel's.png
+image: assets/img/portfolio/Vogel's.webp
 alt: Vogel's company logo
 
 caption:

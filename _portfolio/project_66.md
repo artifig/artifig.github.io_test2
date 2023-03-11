@@ -1,7 +1,7 @@
 ---
 title: Univé
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Unive.png
+image: assets/img/portfolio/Unive.webp
 alt: Univé company logo
 
 caption:

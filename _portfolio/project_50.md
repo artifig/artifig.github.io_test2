@@ -1,7 +1,7 @@
 ---
 title: Republic of Estonia Information System Authority
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Republic_of_Estonia-Information_System_Authority.png
+image: assets/img/portfolio/Republic_of_Estonia-Information_System_Authority.webp
 alt: Republic of Estonia Information System Authority logo
 
 caption:

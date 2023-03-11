@@ -1,7 +1,7 @@
 ---
 title: Republic of Estonia Ministry of Economic Affairs and Communications
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Republic_of_Estonia-Ministry_of_Economic_Affairs_and_Communications.png
+image: assets/img/portfolio/Republic_of_Estonia-Ministry_of_Economic_Affairs_and_Communications.webp
 alt: Republic of Estonia Ministry of Economic Affairs and Communications logo
 
 caption:

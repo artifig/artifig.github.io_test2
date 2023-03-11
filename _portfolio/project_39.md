@@ -1,7 +1,7 @@
 ---
 title: Maxima
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Maxima.png
+image: assets/img/portfolio/Maxima.webp
 alt: Maxima company logo
 
 caption:

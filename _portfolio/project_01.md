@@ -1,7 +1,7 @@
 ---
 title: Achmea
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Achmea.png
+image: assets/img/portfolio/Achmea.webp
 alt: Achmea company logo
 
 caption:

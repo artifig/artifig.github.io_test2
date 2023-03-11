@@ -1,7 +1,7 @@
 ---
 title: LeasePlanBank
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/LeasePlanBank.png
+image: assets/img/portfolio/LeasePlanBank.webp
 alt: LeasePlanBank company logo
 
 caption:

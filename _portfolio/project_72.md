@@ -1,7 +1,7 @@
 ---
 title: VPRO
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/VPRO.png
+image: assets/img/portfolio/VPRO.webp
 alt: VPRO company logo
 
 caption:

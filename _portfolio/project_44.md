@@ -1,7 +1,7 @@
 ---
 title: Nieuwe Stroom
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Nieuwe_Stroom.png
+image: assets/img/portfolio/Nieuwe_Stroom.webp
 alt: Nieuwe Stroom company logo
 
 caption:

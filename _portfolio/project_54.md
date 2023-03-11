@@ -1,7 +1,7 @@
 ---
 title: Science Park Tehnopol
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Science_Park_Tehnopol.png
+image: assets/img/portfolio/Science_Park_Tehnopol.webp
 alt: Science Park Tehnopol company logo
 
 caption:

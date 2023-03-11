@@ -1,7 +1,7 @@
 ---
 title: Tallinn University of Technology
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Tallinn_University_of_Technology.png
+image: assets/img/portfolio/Tallinn_University_of_Technology.webp
 alt: Tallinn University of Technology logo
 
 caption:

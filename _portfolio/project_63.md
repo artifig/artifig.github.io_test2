@@ -1,7 +1,7 @@
 ---
 title: The Learning Network
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/The_Learning_Network.png
+image: assets/img/portfolio/The_Learning_Network.webp
 alt: The Learning Network company logo
 
 caption:

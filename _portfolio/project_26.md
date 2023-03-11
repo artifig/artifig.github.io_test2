@@ -1,7 +1,7 @@
 ---
 title: Heineken
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Heineken.png
+image: assets/img/portfolio/Heineken.webp
 alt: Heineken company logo
 
 caption:

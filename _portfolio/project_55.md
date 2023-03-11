@@ -1,7 +1,7 @@
 ---
 title: Sentia
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Sentia.png
+image: assets/img/portfolio/Sentia.webp
 alt: Sentia company logo
 
 caption:

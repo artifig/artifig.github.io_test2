@@ -1,7 +1,7 @@
 ---
 title: HFM Talentindex
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/HFM_Talentindex.png
+image: assets/img/portfolio/HFM_Talentindex.webp
 alt: HFM Talentindex company logo
 
 caption:

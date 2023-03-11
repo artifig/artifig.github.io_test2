@@ -1,7 +1,7 @@
 ---
 title: UtrechtInc
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/UtrechtInc.png
+image: assets/img/portfolio/UtrechtInc.webp
 alt: UtrechtInc company logo
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: Food and Friends
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Food_and_Friends.png
+image: assets/img/portfolio/Food_and_Friends.webp
 alt: Food and Friends company logo
 
 caption:

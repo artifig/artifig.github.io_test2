@@ -1,7 +1,7 @@
 ---
 title: ASReview
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/ASReview.png
+image: assets/img/portfolio/ASReview.webp
 alt: ASReview company logo
 
 caption:

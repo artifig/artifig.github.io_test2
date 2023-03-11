@@ -1,7 +1,7 @@
 ---
 title: Internet-Bikes
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Internet-Bikes.png
+image: assets/img/portfolio/Internet-Bikes.webp
 alt: Internet-Bikes company logo
 
 caption:

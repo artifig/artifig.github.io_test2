@@ -1,7 +1,7 @@
 ---
 title: Nederlandse Publieke Omroep
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Nederlandse_Publieke_Omroep.png
+image: assets/img/portfolio/Nederlandse_Publieke_Omroep.webp
 alt: Nederlandse Publieke Omroep logo
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: Valdek
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Valdek.png
+image: assets/img/portfolio/Valdek.webp
 alt: Valdek company logo
 
 caption:

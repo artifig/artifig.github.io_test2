@@ -1,7 +1,7 @@
 ---
 title: Timing Uitzendteam
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Timing_Uitzendteam.png
+image: assets/img/portfolio/Timing_Uitzendteam.webp
 alt: Timing Uitzendteam company logo
 
 caption:

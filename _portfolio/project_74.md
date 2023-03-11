@@ -1,7 +1,7 @@
 ---
 title: Yanu
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Yanu.png
+image: assets/img/portfolio/Yanu.webp
 alt: Yanu company logo
 
 caption:

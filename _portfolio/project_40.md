@@ -1,7 +1,7 @@
 ---
 title: McDonalds
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/McDonalds.png
+image: assets/img/portfolio/McDonalds.webp
 alt: McDonalds company logo
 
 caption:

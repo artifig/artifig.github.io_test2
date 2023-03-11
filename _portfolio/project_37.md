@@ -1,7 +1,7 @@
 ---
 title: Longines Global Champions Tour
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Longines_Global_Champions_Tour.png
+image: assets/img/portfolio/Longines_Global_Champions_Tour.webp
 alt: Longines Global Champions Tour company logo
 
 caption:

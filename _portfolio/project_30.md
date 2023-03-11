@@ -1,7 +1,7 @@
 ---
 title: Incentro
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Incentro.png
+image: assets/img/portfolio/Incentro.webp
 alt: Incentro company logo
 
 caption:

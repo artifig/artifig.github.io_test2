@@ -1,7 +1,7 @@
 ---
 title: Envelope
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Envelope.png
+image: assets/img/portfolio/Envelope.webp
 alt: Envelope company logo
 
 caption:

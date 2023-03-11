@@ -1,7 +1,7 @@
 ---
 title: Geevers
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Geevers.png
+image: assets/img/portfolio/Geevers.webp
 alt: Geevers company logo
 
 caption:

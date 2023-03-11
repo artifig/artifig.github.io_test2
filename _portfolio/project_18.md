@@ -1,7 +1,7 @@
 ---
 title: Finestmedia
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Finestmedia.png
+image: assets/img/portfolio/Finestmedia.webp
 alt: Finestmedia company logo
 
 caption:

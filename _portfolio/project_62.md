@@ -1,7 +1,7 @@
 ---
 title: Tervisetehnoloogiate Arenduskeskus
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Tervisetehnoloogiate_Arenduskeskus.png
+image: assets/img/portfolio/Tervisetehnoloogiate_Arenduskeskus.webp
 alt: Tervisetehnoloogiate Arenduskeskus logo
 
 caption:

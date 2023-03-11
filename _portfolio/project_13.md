@@ -1,7 +1,7 @@
 ---
 title: Delfi
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Delfi.png
+image: assets/img/portfolio/Delfi.webp
 alt: Delfi company logo
 
 caption:

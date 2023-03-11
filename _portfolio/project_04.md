@@ -1,7 +1,7 @@
 ---
 title: Alliander
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Alliander.png
+image: assets/img/portfolio/Alliander.webp
 alt: Alliander company logo
 
 caption:

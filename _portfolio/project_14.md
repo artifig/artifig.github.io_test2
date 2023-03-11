@@ -1,7 +1,7 @@
 ---
 title: East Tallinn Central Hospital
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/East_Tallinn_Central_Hospital.png
+image: assets/img/portfolio/East_Tallinn_Central_Hospital.webp
 alt: East Tallinn Central Hospital logo
 
 caption:

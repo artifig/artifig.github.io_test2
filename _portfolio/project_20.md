@@ -1,7 +1,7 @@
 ---
 title: Fugira Software
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Fugira_Software.png
+image: assets/img/portfolio/Fugira_Software.webp
 alt: Fugira Software company logo
 
 caption:

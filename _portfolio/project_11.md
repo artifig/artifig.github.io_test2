@@ -1,7 +1,7 @@
 ---
 title: Centralpoint
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Centralpoint.png
+image: assets/img/portfolio/Centralpoint.webp
 alt: Centralpoint company logo
 
 caption:

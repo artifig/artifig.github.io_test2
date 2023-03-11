@@ -1,7 +1,7 @@
 ---
 title: Monuta
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Monuta.png
+image: assets/img/portfolio/Monuta.webp
 alt: Monuta company logo
 
 caption:

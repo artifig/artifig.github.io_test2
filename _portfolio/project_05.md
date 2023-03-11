@@ -1,7 +1,7 @@
 ---
 title: Allianz Direct
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Allianz_Direct.png
+image: assets/img/portfolio/Allianz_Direct.webp
 alt: 
 
 caption:

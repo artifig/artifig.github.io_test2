@@ -1,7 +1,7 @@
 ---
 title: Ennia
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Ennia.png
+image: assets/img/portfolio/Ennia.webp
 alt: Ennia company logo
 
 caption:

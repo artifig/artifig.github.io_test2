@@ -1,7 +1,7 @@
 ---
 title: HeBA
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/HeBA.png
+image: assets/img/portfolio/HeBA.webp
 alt: HeBA company logo
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: Stedin
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Stedin.png
+image: assets/img/portfolio/Stedin.webp
 alt: Stedin company logo
 
 caption:

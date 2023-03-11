@@ -1,7 +1,7 @@
 ---
 title: Sligro
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Sligro.png
+image: assets/img/portfolio/Sligro.webp
 alt: Sligro company logo
 
 caption:

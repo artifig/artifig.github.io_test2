@@ -1,7 +1,7 @@
 ---
 title: Medicore
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Medicore.png
+image: assets/img/portfolio/Medicore.webp
 alt: Medicore company logo
 
 caption:

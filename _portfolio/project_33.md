@@ -1,7 +1,7 @@
 ---
 title: Intersolve
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Intersolve.png
+image: assets/img/portfolio/Intersolve.webp
 alt: Intersolve company logo
 
 caption:

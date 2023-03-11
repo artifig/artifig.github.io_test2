@@ -1,7 +1,7 @@
 ---
 title: Stacc
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Stacc.png
+image: assets/img/portfolio/Stacc.webp
 alt: Stacc company logo
 
 caption:

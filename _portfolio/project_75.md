@@ -1,7 +1,7 @@
 ---
 title: ZLM Verzekeringen
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/ZLM_Verzekeringen.png
+image: assets/img/portfolio/ZLM_Verzekeringen.webp
 alt: ZLM Verzekeringen company logo
 
 caption:

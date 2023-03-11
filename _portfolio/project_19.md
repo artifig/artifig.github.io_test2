@@ -1,7 +1,7 @@
 ---
 title: Follow the Money
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Follow_the_Money.png
+image: assets/img/portfolio/Follow_the_Money.webp
 alt: Follow the Money company logo
 
 caption:

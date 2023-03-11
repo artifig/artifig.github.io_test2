@@ -1,7 +1,7 @@
 ---
 title: Tartu University Hospital
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Tartu_University_Hospital.png
+image: assets/img/portfolio/Tartu_University_Hospital.webp
 alt: Tartu University Hospital company logo
 
 caption:

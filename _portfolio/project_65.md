@@ -1,7 +1,7 @@
 ---
 title: Unigarant
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Unigarant.png
+image: assets/img/portfolio/Unigarant.webp
 alt: Unigarant company logo
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: Nortal
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Nortal.png
+image: assets/img/portfolio/Nortal.webp
 alt: Nortal company logo
 
 caption:

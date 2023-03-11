@@ -1,7 +1,7 @@
 ---
 title: Parliament of Estonia
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Parliament_of_Estonia.png
+image: assets/img/portfolio/Parliament_of_Estonia.webp
 alt: Parliament of Estonia logo
 
 caption:

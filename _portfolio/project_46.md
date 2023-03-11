@@ -1,7 +1,7 @@
 ---
 title: Osudio
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Osudio.png
+image: assets/img/portfolio/Osudio.webp
 alt: Osudio company logo
 
 caption:

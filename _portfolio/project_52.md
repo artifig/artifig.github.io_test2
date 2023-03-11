@@ -1,7 +1,7 @@
 ---
 title: Robeco
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Robeco.png
+image: assets/img/portfolio/Robeco.webp
 alt: Robeco company logo
 
 caption:

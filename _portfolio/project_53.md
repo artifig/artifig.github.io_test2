@@ -1,7 +1,7 @@
 ---
 title: Sabic
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Sabic.png
+image: assets/img/portfolio/Sabic.webp
 alt: Sabic company logo
 
 caption:

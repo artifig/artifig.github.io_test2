@@ -1,7 +1,7 @@
 ---
 title: Ibuildings
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Ibuildings.png
+image: assets/img/portfolio/Ibuildings.webp
 alt: Ibuildings company logo
 
 caption:

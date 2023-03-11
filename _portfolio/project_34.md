@@ -1,7 +1,7 @@
 ---
 title: Keylane
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Keylane.png
+image: assets/img/portfolio/Keylane.webp
 alt: Keylane company logo
 
 caption:

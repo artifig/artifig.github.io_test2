@@ -1,7 +1,7 @@
 ---
 title: Alise Technic
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Alise_Technic.png
+image: assets/img/portfolio/Alise_Technic.webp
 alt: 
 
 caption:

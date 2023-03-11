@@ -1,7 +1,7 @@
 ---
 title: Kulinaaria
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Kulinaaria.png
+image: assets/img/portfolio/Kulinaaria.webp
 alt: Kulinaaria company logo
 
 caption:

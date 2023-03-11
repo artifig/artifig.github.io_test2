@@ -1,7 +1,7 @@
 ---
 title: AllSecur
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/AllSecur.png
+image: assets/img/portfolio/AllSecur.webp
 alt: AllSecur company logo
 
 caption:

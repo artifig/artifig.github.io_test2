@@ -1,7 +1,7 @@
 ---
 title: ALPA Kids
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/Alpa_Kids.png
+image: assets/img/portfolio/Alpa_Kids.webp
 alt: 
 
 caption:
