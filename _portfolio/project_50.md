@@ -7,7 +7,7 @@ alt: Republic of Estonia Information System Authority logo
 caption:
   title: Republic of Estonia Information System Authority
   subtitle: AI Mentoring
-  thumbnail: assets/img/portfolio/Republic_of_Estonia-Information_System_Authority.webp
+  thumbnail: assets/img/portfolio_thumbnail/Republic_of_Estonia-Information_System_Authority.webp
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

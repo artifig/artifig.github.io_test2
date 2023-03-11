@@ -7,7 +7,7 @@ alt: Alliander company logo
 caption:
   title: Alliander
   subtitle: Process Analyses
-  thumbnail: assets/img/portfolio/Alliander.webp
+  thumbnail: assets/img/portfolio_thumbnail/Alliander.webp
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

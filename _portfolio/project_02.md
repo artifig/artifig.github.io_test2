@@ -7,7 +7,7 @@ alt: AI & Robotics Estonia (AIRE) company logo
 caption:
   title: AI & Robotics Estonia
   subtitle: Service Design
-  thumbnail: assets/img/portfolio/AI_&_Robotics_Estonia.webp
+  thumbnail: assets/img/portfolio_thumbnail/AI_&_Robotics_Estonia.webp
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

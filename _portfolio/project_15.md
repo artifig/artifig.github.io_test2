@@ -7,7 +7,7 @@ alt: Ennia company logo
 caption:
   title: Ennia
   subtitle: AI Mentoring
-  thumbnail: assets/img/portfolio/Ennia.webp
+  thumbnail: assets/img/portfolio_thumbnail/Ennia.webp
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

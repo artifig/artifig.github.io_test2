@@ -7,7 +7,7 @@ alt: We Provide company logo
 caption:
   title: We Provide
   subtitle: AI Mentoring
-  thumbnail: assets/img/portfolio/We_Provide.webp
+  thumbnail: assets/img/portfolio_thumbnail/We_Provide.webp
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
